@@ -13,7 +13,7 @@ body {
   font-size: 1rem;
   line-height: 1.6;
   color: #222;
-  background: #fff;
+  background: #b8bff4;
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem 1.5rem;
@@ -27,7 +27,7 @@ nav {
 nav a {
   margin-right: 1.25rem;
   text-decoration: none;
-  color: #0066cc;
+  color: #769cb7;
 }
 
 nav a:hover {
@@ -41,6 +41,7 @@ section {
 
 /* Headings */
 h2 {
+  color: #245a81;
   font-size: 1.5rem;
   margin-bottom: 0.75rem;
   border-bottom: 1px solid #ddd;
